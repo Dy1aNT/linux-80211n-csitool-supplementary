@@ -2,7 +2,7 @@
 
 */netlink/my_log_to_file.c*
 
-This tool implements the function of logging CSI directly to a readable text.
+This tool implements the function of logging CSI to a directly readable text file.
 
 ---------------------------------------------
 
